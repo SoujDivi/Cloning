@@ -1,0 +1,1 @@
+videobar_alpha=0.35
